@@ -1,23 +1,13 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Oleksandr Agapov. Software, automation, products. From idea to system to people." src="assets/header-light.svg" width="100%">
-</picture>
+# Oleksandr Agapov
 
-Software Engineering student interested in products, automation and the systems behind them.
+**Software · Automation · Products**
 
-### Building
+![Abstract technical drawing in graphite and lime](assets/profile-art.png)
 
-Software projects and tools for everyday workflows.
+Software Engineering student in Kyiv. I work on software projects and explore automation, data, and product development.
 
-### Exploring
+| BUILDING | EXPLORING | WORKING WITH |
+| :--- | :--- | :--- |
+| Tools and applications for everyday workflows | How technology, data, and product decisions fit together | Python, C# / .NET, APIs, SQL, AI-assisted development |
 
-How technology, data and product decisions fit together.
-
-### Tools
-
-Python · C# / .NET · APIs · SQL · AI-assisted development
-
----
-
-Kyiv, Ukraine · Taras Shevchenko National University of Kyiv
+<sub>Kyiv, Ukraine &nbsp; / &nbsp; Taras Shevchenko National University of Kyiv</sub>
