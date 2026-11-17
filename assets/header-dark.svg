@@ -1,3 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 310" role="img" aria-label="Oleksandr Agapov — software, automation, products">
-<rect width="1200" height="310" fill="#0d1117"/><path d="M0 0h12v310H0z" fill="#b9f36a"/><path d="M64 55H1136M64 255H1136" stroke="#30363d"/><text x="65" y="98" fill="#a3aab3" font-family="Arial, sans-serif" font-size="17" letter-spacing="3">SOFTWARE / AUTOMATION / PRODUCTS</text><text x="62" y="185" fill="#f0f3f6" font-family="Arial, sans-serif" font-weight="700" font-size="67">OLEKSANDR AGAPOV</text><text x="65" y="230" fill="#a3aab3" font-family="Arial, sans-serif" font-size="19">Projects, experiments, and things worth building.</text><circle cx="1123" cy="88" r="7" fill="#b9f36a"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-label="Oleksandr Agapov. Software, automation, products.">
+  <rect width="1200" height="430" fill="#0d1117"/>
+  <text x="50" y="69" fill="#c9d1d9" font-family="Arial, sans-serif" font-size="18" letter-spacing="3">SOFTWARE <tspan fill="#b9f36a">/</tspan> AUTOMATION <tspan fill="#b9f36a">/</tspan> PRODUCTS</text>
+  <text x="46" y="175" fill="#f0f3f6" font-family="Georgia, 'Times New Roman', serif" font-size="91">OLEKSANDR</text>
+  <text x="46" y="273" fill="#f0f3f6" font-family="Georgia, 'Times New Roman', serif" font-size="91">AGAPOV</text>
+  <path d="M50 319h52" stroke="#b9f36a" stroke-width="5"/>
+  <g fill="none" stroke="#89929b" stroke-width="1.2"><circle cx="950" cy="202" r="111"/><path d="M717 107h105c80 0 85 95 85 95h206M717 300h87c95 0 103-98 103-98M950 68v268M815 202h298"/></g>
+  <circle cx="717" cy="107" r="4" fill="#b9f36a"/><circle cx="907" cy="202" r="4" fill="#f0f3f6"/><circle cx="1113" cy="202" r="4" fill="#b9f36a"/>
+  <g fill="#c9d1d9" font-family="Arial, sans-serif" font-size="14" letter-spacing="2"><text x="718" y="88">IDEA</text><text x="922" y="188">SYSTEM</text><text x="1043" y="184">PEOPLE</text></g>
+  <path d="M50 374h1100" stroke="#30363d"/>
 </svg>

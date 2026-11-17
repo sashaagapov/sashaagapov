@@ -1,36 +1,23 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img alt="Oleksandr Agapov. Software, automation, products." src="assets/header-light.svg" width="100%">
+  <img alt="Oleksandr Agapov. Software, automation, products. From idea to system to people." src="assets/header-light.svg" width="100%">
 </picture>
 
-Software engineering student exploring products, automation and the systems behind them.
+Software Engineering student interested in products, automation and the systems behind them.
 
-## Selected work
+### Building
 
-### 01 / OnboardOps
+Software projects and tools for everyday workflows.
 
-A client onboarding project with an operations dashboard, API and reporting workflow.
+### Exploring
 
-![OnboardOps operations console with demonstration data](https://raw.githubusercontent.com/sashaagapov/OnboardOps/main/docs/operations-console.png)
+How technology, data and product decisions fit together.
 
-`Python` · `FastAPI` · `React` · `n8n`  
-[Explore OnboardOps →](https://github.com/sashaagapov/OnboardOps)
+### Tools
 
-### 02 / KOS Desktop
-
-A local-first application for reviewing and saving useful context from AI conversations.
-
-![KOS Desktop memory review screen](https://raw.githubusercontent.com/sashaagapov/kos-desktop/main/artifacts/screenshots/kos-memory-review-light-1440x900.png)
-
-`TypeScript` · `Electron` · `React`  
-[Explore KOS Desktop →](https://github.com/sashaagapov/kos-desktop)
-
-### 03 / More work
-
-[Dog Breeding Platform API](https://github.com/sashaagapov/dog-breeding-platform) — a .NET assignment exploring business rules, persistence and tests.  
-[Algorithms and Data Structures](https://github.com/sashaagapov/labs_datastructures) — C# coursework, from search algorithms to trees.
+Python · C# / .NET · APIs · SQL · AI-assisted development
 
 ---
 
-Based in Kyiv · Studying Software Engineering
+Kyiv, Ukraine · Taras Shevchenko National University of Kyiv
