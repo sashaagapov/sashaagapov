@@ -1,8 +1,4 @@
-# Oleksandr Agapov
-
-**Software · Automation · Products**
-
-![Abstract technical drawing in graphite and lime](assets/profile-art.png)
+![Oleksandr Agapov — software, automation, products](assets/profile-art.png)
 
 Software Engineering student in Kyiv. I work on software projects and explore automation, data, and product development.
 
